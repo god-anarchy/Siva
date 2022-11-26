@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./asset/FMTLC46XoAQ_kSN.jpg" alt="Banner"/>
+    <img src="./asset/image.png" alt="Banner"/>
 </div>
 
 ---
