@@ -20,7 +20,7 @@ Siva is a Application and Port Limiter Using the NetBalancer Drivers
 
 -Drag The Downloaded Ports Folder To Your Documents Folder
 
--If You Come Across Any Problems Contact Us Here [Discord](https://discord.gg/fmKDsYagsS)
+-If You Come Across Any Problems Contact Us Here [Discord](https://discord.gg/963jY8khkd)
 
 ## Setting up the ports folder
 - You must put the ports folder inside of your Documents folder which should be located inside of C:\Users\Your PC Username\Documents
