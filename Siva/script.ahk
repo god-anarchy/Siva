@@ -192,7 +192,7 @@ Hotkey10:
 	    IniRead, vHotkey2, settings.ini, Binds, key2
         Gui, Add, Text, x2 y49 w240 h20 , - Pressing %vHotkey3% Will Limit 3074
 	    IniRead, vHotkey3, settings.ini, Binds, key3
-        Gui, Add, Text, x2 y69 w240 h20 , - Pressing %vHotkey4% Will Buffer Limit 30k
+        Gui, Add, Text, x2 y69 w240 h20 , - Pressing %vHotkey4% Will Limit 30k
 	    IniRead, vHotkey4, settings.ini, Binds, key4
         Gui, Add, Text, x2 y89 w240 h30 , - Pressing %vHotkey5% Will Limit 27k
 	    IniRead, vHotkey5, settings.ini, Binds, key5
