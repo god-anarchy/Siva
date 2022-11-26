@@ -30,3 +30,8 @@ Siva is a Application and Port Limiter Using the NetBalancer Drivers
 ## Important Note
 - If you do not setup the ports folder inside of the documents folder than the limiter wont work for ports 
 - You must have Siva.exe and settings.ini inside of the same folder/location or the application will just not work since there isnt any keybinds set
+
+##Video Instructions
+
+This is a really scuffed video on how to install it and some functions
+https://youtu.be/cn8GxaEdnIc
