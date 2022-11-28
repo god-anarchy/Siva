@@ -12,9 +12,11 @@ Siva is a Application and Port Limiter Using the NetBalancer Drivers w/ Some Ext
 - Full Game Limits Up/Down
 - All Ports 3074, 30k, 27k, 7k
 - Auto Buffer 3074 Limit For Long Limits
-- Game Pauser
-- Skate Macros
 - Finisher Limit Macro
+- Game Pauser
+- WIsh Wall Macro
+- Skate Macros
+
 
 ## Installation
 -Must Download AutoHotKey & NetBalancer (While Installing NetBalancer Uncheck The Boxes For Tray and UI & Don't Change The Default File Path)
