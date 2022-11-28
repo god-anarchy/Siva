@@ -6,14 +6,15 @@
 
 ## About
 
-Siva is a Application and Port Limiter Using the NetBalancer Drivers
+Siva is a Application and Port Limiter Using the NetBalancer Drivers w/ Some Extra Features
 
 ## Features
 - Full Game Limits Up/Down
 - All Ports 3074, 30k, 27k, 7k
 - Auto Buffer 3074 Limit For Long Limits
-- GOS Mote Deposit Macro (Will turn on deposit enough times for 30 motes and turn off)
-- Cancel All Active Limits
+- Game Pauser
+- Skate Macros
+- Finisher Limit Macro
 
 ## Installation
 -Must Download AutoHotKey & NetBalancer (While Installing NetBalancer Uncheck The Boxes For Tray and UI & Don't Change The Default File Path)
@@ -26,12 +27,12 @@ Siva is a Application and Port Limiter Using the NetBalancer Drivers
 - You must put the ports folder inside of your Documents folder which should be located inside of C:\Users\Your PC Username\Documents
 
 ## Keybinds
--Press F4 Default To See All The Keybinds, If you would like to change them open the Arcite Folder and open settings.ini and [this](https://www.autohotkey.com/docs/KeyList.htm) edit the keybinds. There should be a message with which each one does to help change the correct one.
+-Press F11 default to open the binds menu. In this menu you can fully customize all of the keysbinds. If you don't want a bind put "<>" there instead to null the bind. Use [this](https://www.autohotkey.com/docs/KeyList.htm) for help with making keybinds using multiple characters including shift control or alt.
 ## Important Note
 - If you do not setup the ports folder inside of the documents folder than the limiter wont work for ports 
 - You must have Siva.exe and settings.ini inside of the same folder/location or the application will just not work since there isnt any keybinds set
 
 ## Video Instructions
 
-This is a really scuffed video on how to install it and some functions
+This is a really scuffed video (outdated) on how to install it and some functions
 https://youtu.be/cn8GxaEdnIc
