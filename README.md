@@ -14,9 +14,9 @@ Siva is a Application and Port Limiter Using the NetBalancer Drivers w/ Some Ext
 - Auto Buffer 3074 Limit For Long Limits
 - Finisher Limit Macro
 - Game Pauser
-- WIsh Wall Macro
+- Wish Wall Macro
 - Skate Macros
-
+- Open Threepole
 
 ## Installation
 -Must Download AutoHotKey & NetBalancer (While Installing NetBalancer Uncheck The Boxes For Tray and UI & Don't Change The Default File Path)
@@ -24,6 +24,8 @@ Siva is a Application and Port Limiter Using the NetBalancer Drivers w/ Some Ext
 -Drag The Downloaded Ports Folder To Your Documents Folder
 
 -If You Come Across Any Problems Contact Me On Discord Reaver#3944
+
+-If You Want Threepole To Work Install The Setup In The Default Directory When Installing Threepole
 
 ## Setting up the ports folder
 - You must put the ports folder inside of your Documents folder which should be located inside of C:\Users\Your PC Username\Documents
